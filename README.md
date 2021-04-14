@@ -5,3 +5,18 @@ Developed a Computer Vision project to detect employees entering into premises w
 Contains a single image of me, Jeff Bezos and Bill Gates!
 !['Employee-Image'](https://github.com/sumitkumar109/Employee-Face-Mask-Detection-Alert-System/blob/main/Screenshot3.png?raw=true)
 
+### Detecting-Face-Mask-In-Real-Time
+The model trained on 1376 images using tensorflow, keras, Colab-GPU is used to detect Mask on an human face.
+!['Mask-On'](https://github.com/sumitkumar109/Employee-Face-Mask-Detection-Alert-System/blob/main/Screenshot1.png?raw=true)
+
+### Identifying-Employee-From-Image-Folder-Without-Mask
+The faces without mask are identified using python's face-recognition library as an employee or as an unknown individual depending on the wheather their picture is contained or not in the Employee Image Folder.
+!['Mask-Off'](https://github.com/sumitkumar109/Employee-Face-Mask-Detection-Alert-System/blob/main/Screenshot2.png?raw=true)
+
+### Keeping-Log-Of-Policy-Violators
+A record is added in an csv file containing name and date of arrival of the person, everytime the face mask policy is violated.
+!['CSV-File'](https://github.com/sumitkumar109/Employee-Face-Mask-Detection-Alert-System/blob/main/Screenshot4.png?raw=true)
+
+### Email-Notification-To-Administrator
+An email containing the name and time of arrival is send to the administrator to inform them about COVID policy violation.
+!['Alert-Email'](https://github.com/sumitkumar109/Employee-Face-Mask-Detection-Alert-System/blob/main/Screenshot5.png?raw=true)
