@@ -3,4 +3,5 @@ Developed a Computer Vision project to detect employees entering into premises w
 
 ### Employee-Image-Folder
 Contains a single image of me, Jeff Bezos and Bill Gates!
+!['Employee-Image'](https://drive.google.com/file/d/134kg0xp1oqH6MLNny5ey2DYlwt94eMhH/view?usp=sharing)
 
