@@ -3,7 +3,7 @@ Developed a Computer Vision project to detect employees entering into premises w
 
 ### Employee-Image-Folder
 Contains a single image of me, Jeff Bezos and Bill Gates!
-!['Employee-Image'](https://github.com/sumitkumar109/Employee-Face-Mask-Detection-Alert-System/Screenshots/blob/main/Screenshot3.png?raw=true)
+!['Employee-Image'](https://github.com/sumitkumar109/Employee-Face-Mask-Detection-Alert-System/blob/main/Screenshots/Screenshot3.png?raw=true)
 
 ### Detecting-Face-Mask-In-Real-Time
 The model trained on 1376 images using tensorflow, keras, Colab-GPU is used to detect Mask on an human face.
