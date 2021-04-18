@@ -23,4 +23,4 @@ A record is added in an csv file containing name and date of arrival of the pers
 
 ### Email-Notification-To-Administrator
 An email containing name and time of arrival of the violator is send to the administrator to inform them about COVID policy violation.
-!['Alert-Email'](https://github.com/sumitkumar109/Employee-Face-Mask-Detection-Alert-System/blob/main/Screenshots/Screenshot5.jpeg?raw=true)
+!['Alert-Email'](https://github.com/sumitkumar109/Employee-Face-Mask-Detection-Alert-System/blob/main/Screenshots/Screenshot.jpeg?raw=true)
